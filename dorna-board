@@ -1,0 +1,40 @@
+<body>
+        <div id='frame'>
+            <a class="note sticky1">
+                <div class='pin'></div>
+                <div class='text'>Text1.</div>
+            </a>
+            <a class="note sticky2">
+                <div class='pin'></div>
+                <div class='text'> Text2 </div>
+            </a>
+            <a class="note sticky1">
+                <div class='pin'></div>
+                <div class='text'>Text3</div>
+            </a>
+            <a class="note sticky3">
+                <div class='pin'></div>
+                <div class='text'>Text4</div>
+            </a>
+            <a class="note sticky4">
+                <div class='pin'></div>
+                <div class='text'>Text 4<br> x x</div>
+            </a>
+            <a class="note sticky3">
+                <div class='pin'></div>
+                <div class='text'>Text5</div>
+            </a>
+            <a class="note sticky1">
+                <div class='pin'></div>
+                <div class='text'>Text6 </div>
+            </a>
+            <a class="note sticky3">
+                <div class='pin'></div>
+                <div class='text'>Text7</div>
+            </a>
+            <a class="note sticky0">
+                <div class='pin'></div>
+                <div class='text'>Text8.</div>
+            </a>
+        </div>
+    </body>
